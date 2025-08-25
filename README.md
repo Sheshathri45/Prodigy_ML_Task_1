@@ -1,7 +1,7 @@
 Prodigy_ML_01
 
-🎯 Completed: Data Science Internship Task 03
-📌 Topic: House Price Prediction using Machine Learning
+🎯 Completed: Machine Learning Internship Task 01
+📌 Topic: House Price Prediction using Linear Regression 
 🏢 Internship: Prodigy InfoTech
 🤖 Task: Build a predictive model to estimate house prices using regression techniques.
 
